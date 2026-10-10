@@ -1,0 +1,145 @@
+Sangamesh Udageri                                                     
+Email: Sangameshudageri05@gmail.com 
+Contact: 8748018741 
+Professional Summary: 
+• Around 7+ years of IT experience, including 5+ years of specialized experience in Adobe Experience Manager (AEM) 
+development, delivering enterprise-scale digital experience solutions across Airline, telecom and retail domains.  
+• Currently working as a Consultant (Senior AEM Developer) at KPMG India and previously worked with IBM India 
+Pvt. Ltd., Infosys Limited, and HCL Technologies.  
+• Strong experience in application development, code reviews, unit testing, production support, debugging, 
+enhancements, and quality assurance activities across the complete Software Development Life Cycle (SDLC).  
+• Hands-on expertise in Adobe Experience Manager (AEM 6.5 and AEM as a Cloud Service), including AEM Sites, 
+Assets (DAM), Components, Editable Templates, Content Fragments, Experience Fragments, MSM, Dispatcher, and 
+Headless CMS implementations.  
+• Extensive experience in developing scalable solutions using HTL (Sightly), Sling Models, Servlets, OSGi Services, 
+JCR APIs, Apache Felix, Java, REST APIs, and GraphQL APIs.  
+• Experience in building reusable custom components, schedulers, event handlers, asset handlers, and backend 
+integrations with external systems and databases.  
+• Experience integrating Generative AI capabilities into AEM applications to enable content generation, personalization, 
+and automation.  
+• Good understanding of front-end technologies including HTML5, CSS3, JavaScript, and HTL.  
+• Experienced in Agile/Scrum methodologies, collaborating with cross-functional teams including Architects, UX 
+Designers, QA, DevOps, and Business Stakeholders.  
+• Worked on major client engagements including IndiGo Airlines, Vodafone Idea Limited and Tractor Supply Company 
+(TSC).  
+• Adobe Certified Professional and Adobe Certified Expert in Adobe Experience Manager Development. 
+Career Profile: 
+Duration 
+Organization 
+Designation 
+Aug 2024 – Present 
+KPMG India Services LLP 
+Consultant (Senior AEM Developer) 
+Sep 2023 – Jul 2024 
+IBM India Pvt. Ltd. 
+Senior Package Consultant (AEM Developer) 
+Oct 2021 – Sep 2023 
+Infosys Limited 
+Technology Analyst (AEM Developer) 
+Sep 2019 – Oct 2021 
+HCL Technologies Limited 
+Senior Analyst 
+Educational Summary: 
+Degree 
+College / University 
+Bachelor of Engineering 
+Year of Passing 
+Hira Sugar Institute of Technology, Belagavi (VTU) 
+Profession Certificates: 
+2019 
+1. Adobe Certified Professional – Adobe Experience Manager Developer. 
+2. Adobe Certified Expert – Adobe Experience Manager Sites Developer. 
+Project Experience:  
+Organization: KPMG India Pvt Ltd (Sep 2024 to till date) 
+Project 
+#1:  
+LOB (Shop, Gift Voucher,SightSeeing,Experience,Cabs,) (Jan 2024 – till now) | Client: Indigo | Role: AEM 
+Developer  
+| Team Size: 60 | Tools: IntelliJ, CRXDE Lite, Maven, Jira, VS Code, Bruno, 
+Tech  
+AEM 6.5, AEM 6.6 LTS, Headless CMS (AEM GraphQL APIs), React Micro frontends, Edge Delivery Service 
+(EDS), Generative AI, Java 
+Roles and Responsibility:  
+• Created and structured AEM codebase and repositories, defining project modules and standards. 
+• Translated business requirements into AEM content structures and components. 
+• Developed reusable AEM templates, components, and Content Fragment Models for authors. 
+• Designed and configured AEM Content Fragments and Models for structured, multi‑channel delivery. 
+• Implemented Headless CMS using AEM GraphQL. 
+• Integrated React Micro frontends with AEM to deliver dynamic, modular, and scalable UI experiences. 
+• Collaborated with design, backend, and DevOps teams to ensure seamless AEM–micro frontend integration. 
+• Implemented dynamic metadata updates across the Product Categories and Product Details pages. 
+• Successfully migrated enterprise applications from AEM 6.5 (Java 8) to AEM 6.6 LTS (Java 21), upgrading 
+components, OSGi services, Sling Models, and dependencies while ensuring application stability, performance 
+improvements, and seamless production deployment. 
+• Designed and implemented a Generative AI-based SEO Analyzer leveraging GPT LLMs to perform comprehensive 
+webpage audits, identify SEO gaps, and generate actionable recommendations, significantly reducing manual 
+analysis effort and improving content optimization efficiency. 
+• Built Proof of Concepts (POCs) to demonstrate capabilities of Edge Delivery Services (EDS). 
+• Collaborated with cross-functional teams (UI/UX, QA, DevOps, Business) in an Agile/Scrum environment. 
+• Fixed production bugs, performed enhancements, and supported applications throughout the entire software 
+development lifecycle. 
+• Developed Generative AI Proof-of-Concepts (POCs) to demonstrate AI-driven solutions for client use cases and 
+business requirements.  
+• Wrote unit test cases using JUnit and Mockito, following Test-Driven Development (TDD) practices.  
+Organization: IBM India Pvt. Ltd. (Sep 2023 – Jul 2024) 
+Project 
+#2:  
+Vodafone Idea Limited (Sep 2023 - Jul 2024) | Client: Vodafone Idea Ltd. | Role: Senior Package Consultant – 
+AEM Backend Developer | Team Size: 12 | Tools: IntelliJ IDE, CRXDE Lite, Maven, Git, Jira, Postman, VS 
+Code 
+Tech  
+AEM 6.5, HTL (Sightly), Sling Models, Servlets, OSGi Services, JCR, Dispatcher, Java, REST APIs, 
+Experience Fragments, Handlers, Sling Jobs, JavaScript 
+Roles and Responsibility:  
+• Developed backend functionalities using Core Java, Sling Models, Sling Servlets, and OSGi Services. 
+• Designed and implemented reusable OSGi services for business-specific requirements. 
+• Developed REST-based integrations between AEM and external applications. 
+• Worked extensively with JCR APIs for content retrieval, manipulation, and repository operations. 
+• Developed and maintained Sling Jobs, Event Handlers, Schedulers, and Asset Handlers. 
+• Integrated external databases with AEM through Servlets and OSGi Services, including execution of MySQL stored 
+procedures.  
+• Created and maintained OSGi configurations and Apache Felix configurations across environments. 
+• Worked on Author and Publish instance configurations, deployments, and troubleshooting activities. 
+• Collaborated with architects, frontend developers, QA teams, and DevOps teams in Agile/Scrum environments. 
+Organization: Infosys Limited (Oct 2021 – Sep 2023) 
+Project 
+#1: 
+Tractor Supply Company (TSC) (Oct 2021 - Sep 2023) | Client: Tractor Supply Company | Role: Technology 
+Analyst – AEM Developer | Team Size: 5 | Tools: IntelliJ IDEA, CRXDE Lite, Maven, Git, Jira, Postman 
+Tech AEM as Cloud Service (AEMasCS), HTL (Sightly), Sling Models, OSGi Services, Java, Content Fragments, 
+Experience Fragments, REST APIs, JavaScript, CSS, HTML 
+Roles and Responsibility:  
+• Developed and customized AEM components, templates, and pages using HTL, Java, and Sling Models. 
+• Assisted in creating and maintaining content structures within AEM repositories. 
+• Collaborated with frontend developers to integrate responsive UI designs. 
+• Worked with OSGi services, servlets, and configurations to implement business requirements. 
+• Participated in code reviews, testing, debugging, and deployment activities. 
+• Utilized Git, Maven, and CI/CD tools for source control and application deployment. 
+• Supported content authors and resolved AEM-related technical issues. 
+Skill Summary: 
+Skill Area 
+Skill 
+Front end Languages 
+Back End languages 
+HTL(Sightly), HTML, CSS, Java Script, JQuerry 
+Java, MySQL 
+Tools Used 
+AEM Versions 
+AEM, IntelliJ, Eclipse, VS-Code, Git, GitHub 
+Bitbucket, Maven, Jira, Postman, Bruno 
+AEMasCS, AEM 6.5, AEM 6.6 LTS 
+Personal Details: 
+Name   
+Present Address 
+Date of Birth  
+Nationality   
+Languages Known 
+Declaration: 
+:   Sangamesh Shivanna Udageri 
+:   EGL Business Park back gate, Domlur, Bengaluru, Karnataka 560037. 
+:   05-01-1997 
+:   Indian 
+:   Kannada, Marathi, Hindi & English 
+I confirm that the information provided by me is true to the best of my knowledge and belief. 
+Date :28/07/2026                                                                                                                                
+Sangamesh Udageri 
